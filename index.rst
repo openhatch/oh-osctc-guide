@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Open Source Comes to Campus guide's documentation!
-=============================================================
+Open Soure Comes to Campus Event organizing guide
+=================================================
 
 Contents:
 
@@ -17,6 +17,5 @@ Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
