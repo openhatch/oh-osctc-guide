@@ -6,7 +6,11 @@
 Open Soure Comes to Campus Event organizing guide
 =================================================
 
-Contents:
+Really soon, this will contain a version of the resources_
+that live on the OpenHatch wiki. For now, it is just a blank
+site.
+
+.. _resources: https://openhatch.org/wiki/OSCTC_Resources
 
 .. toctree::
    :maxdepth: 2
