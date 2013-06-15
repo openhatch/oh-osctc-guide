@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Open Soure Comes to Campus Event organizing guide
-=================================================
+Open Source Comes to Campus Event organizing guide
+==================================================
 
 Really soon, this will contain a version of the resources_
 that live on the OpenHatch wiki. For now, it is just a blank
